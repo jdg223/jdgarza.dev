@@ -7,7 +7,7 @@
 <template>
     <div id="home-navbar">
         <ul class="nav nav-tabs" role="tablist">
-            
+
         </ul>
     </div>
 </template>
